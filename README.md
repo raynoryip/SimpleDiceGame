@@ -1,2 +1,2 @@
-# SimpleDiceGame
-A Simple Dice Game with rolling and placing bet from Year 1 Subject 
+# SimpleDiceGame(Java)
+A Simple Dice Game (GUI) with rolling and placing bet from Year 1 Subject 
